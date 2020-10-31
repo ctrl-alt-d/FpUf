@@ -38,7 +38,7 @@ Com funciona el programa?
 
 El membra de la mesa s’autentica i li apareix un menú (**menu.php**) amb dues possibilitats:
 
-####**OP1**: Introduir vot (**introduir_vot.php**):
+#### **OP1**: Introduir vot (**introduir_vot.php**):
 
 Apareix una pantalla on demana dues coses:
 
@@ -51,7 +51,7 @@ Processar el vot són dues coses:
 * Posem en una variable de sesió el hash del dni per tal de que no torni a votar. Per fer el hash: `md5( $_REQUEST['DNI'] );`
 * Sumem el seu vot a l’array de votacions que també tenim en una variable de sessió: `$_SESSION[ $_REQUEST['OPCIO'] ]++;`
 
-####**OP2**: Veure resultats (**veure_resultats.php**):
+#### **OP2**: Veure resultats (**veure_resultats.php**):
 
 Ens mostra quants vots porta acumulat cada resultat.
 

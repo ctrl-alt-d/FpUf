@@ -48,7 +48,7 @@ També es poden protegir determinades entrades perquè només les puguin fer ser
 Activitat
 ----------------------
 
-###1. Atacar el sistema amb l'arrancada en mode monousuari
+### 1. Atacar el sistema amb l'arrancada en mode monousuari
 Per fer aquesta part heu d'imaginar que sou un atacant que vol accedir en una màquina que no és la vostra i que esteu davant d'ella...
 
 1. Arranqueu una màquina en Linux editant una de les entrades de GRUB perquè arrenqui amb mode mono usuari

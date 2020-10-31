@@ -6,7 +6,7 @@ Apunts [Supervisió Windows Server 2016](https://seicoll.gitbooks.io/sox/UF1/uf1
 
 ## Activitat
 
-###1. Administrador de tasques
+### 1. Administrador de tasques
 
 1.1. Quins operacions/tasques ens permet fer l’administrador de tasques?
 
@@ -18,7 +18,7 @@ Apunts [Supervisió Windows Server 2016](https://seicoll.gitbooks.io/sox/UF1/uf1
 
 1.5. Que és el PID d’un procés?
 
-###2. Administrador de serveis
+### 2. Administrador de serveis
 
 2.1. Què significa el “tipus d'inici” d'un servei?
 
