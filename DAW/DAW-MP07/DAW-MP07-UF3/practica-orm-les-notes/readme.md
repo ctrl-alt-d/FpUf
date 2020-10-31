@@ -10,7 +10,7 @@ Observa aquest model entitat relació:
 * La Nota pot ser null si l'estudiant no s'hi presenta.
 * No es poden donar dues qualificacions per al mateix estudiant, assignatura i qualificació.
 
-###Entregables:
+### Entregables:
 
 Fitxer PDF amb:
 

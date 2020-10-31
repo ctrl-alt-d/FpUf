@@ -2,7 +2,7 @@
 ## DAW-MP07-UF2 - Exercici de Generació dinàmica de pagines web.
 **Objectiu**: Confeccionar aplicació Web gestió de comparses de carnestoltes. 
 
-###Estructura de dades:
+### Estructura de dades:
 
 ```bash
 Comparsa: número de comparsa ( PK )
@@ -48,12 +48,12 @@ Comparsa: número de comparsa ( PK )
 
 La pràctica es realitza en grup de 4 o màx 5 persones. 
 
-###S'avaluarà:
+### S'avaluarà:
 
 * Capacitat del grup per organitzar-se i assumir els diferents rols necessaris per a completar el projecte.
 * Aplicació de les tècniques i patrons explicats a l'assignatura.
 
-###Entregables:
+### Entregables:
 
 * Codi font de la web autocomentat en un únic document format pdf on també s'incloguin les captures de pantalla de la web en funcionament. Cal documentar:
     * Template base

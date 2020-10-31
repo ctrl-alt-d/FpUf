@@ -1,6 +1,6 @@
 # Android: Geolocalització i comunicacions
 ## DAM-MP08-UF1 - Exercici de Desenvolupament d’aplicacions per dispositius mòbils
-###ENUNCIAT
+### ENUNCIAT
 
 Has de crear una aplicació per Android que mostri els punts d'interès que li interessen a l'usuari. L'usuari farà un filtre per població i l'aplicació li representarà sobre un mapa els punts d'interès d'aquella població, o bé tots (si no indica cap filtre).
 

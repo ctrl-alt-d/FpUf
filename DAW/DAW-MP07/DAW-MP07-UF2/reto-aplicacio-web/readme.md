@@ -16,7 +16,7 @@
 * [Reto Farmàcies: Controladors i vistes 1a Part](https://youtu.be/P9c-Ea3GiJw) YT 33'
 * [Reto Farmàcies: Controladors i vistes 2a Part](https://youtu.be/2sgdDLmtueU) YT 58'
 
-###Estructura de dades:
+### Estructura de dades:
 
 >Provincia - Municipi - Farmàcia - Comentari
 
@@ -63,12 +63,12 @@ Crea els models necessaris per a persistir les dades. Prepara les migrations i a
 * Crea el projecte i el comparteix.
 * Organitza el grup i dona suport a les incidències que puguin apareixer.
 
-###S'avaluarà:
+### S'avaluarà:
 
 * Capacitat del grup per organitzar-se i assumir els diferents rols necessaris per a completar el projecte.
 * Aplicació de les tècniques i patrons explicats a l'assignatura.
 
-###Entregables:
+### Entregables:
 
 * Codi font de la web autocomentat en un únic document format pdf on també s'incloguin les captures de pantalla de la web en funcionament.
 * Opcional: Directe de la confecció de la web amb converses i visualització de l'evolució del codi.

@@ -1,6 +1,6 @@
 # Editor de text per a llenguatge de marques
 ## SMX-MP08-UF5 - Exercici de fonaments d’HTML i fulls d’estils
-###Exercici 1:
+### Exercici 1:
 
 Ajudat d'aquests dos artícles de la wikipedia:
 
@@ -18,11 +18,11 @@ Respon aquestes preguntes:
 - Quina és (o són) les diferències més importants entre un editor i un processador de text?
 - Quina és (o són) les semblances més importants entre un editor i un processador de text?
 
-###Exercici 2:
+### Exercici 2:
 
 Editors de text per a Windows i per a Linux. Durant aquesta UF farem servir editor de text. Busca quins són els principals editors de text tant per a Windows com per a Linux. Comença a pensar quin faràs servir. Busca captura de pantalla d'aquests editors per Internet i busca quines són les seves funcionalitats més destacades.
 
-###Exercici 3:
+### Exercici 3:
 
 En aquesta unitat formativa treballarem amb 'llenguatge de marques'. Dels editors que has estudiat a l'exercici 2 mira quins tenen la funcionalitat de 'resaltar' les marques. Aquesta funcionalitat t'ajudarà a pensar quin editor vols fer servir.
 

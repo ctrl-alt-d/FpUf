@@ -22,7 +22,7 @@ L'aplicació que heu de fer ha de permetre emmagatzemar tots els productes que s
 
 Com que això de la programació orientada a objectes és una metodologia que té molts avantatges decidiu programar-ho en Java.
 
-##Es demana
+## Es demana
 
 * 1) Identifica i codifica les classes del sistema. Es demana:
 

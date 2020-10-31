@@ -10,7 +10,7 @@ També s’emmagatzemen les diferents proves en les que els atletes s’entrenen
 
 Un mateix atleta es pot entrenar en diferents proves. Quan s’entrena pren les dades de l’entrenament que consisteixen en saber en quina prova s’ha entrenat, el dia i hora i quin temps ha fet. També un comentari sobre com li ha anat per un altre dia poder-lo consultar. Naturalment un atleta no pot fer dos entrenaments en el mateix dia i hora.
 
-###Exercici:
+### Exercici:
 
 * Fes el diagrama del MCD amb notació Chen i amb [notació Crow's foot](http://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow.27s_Foot_Notation)
 

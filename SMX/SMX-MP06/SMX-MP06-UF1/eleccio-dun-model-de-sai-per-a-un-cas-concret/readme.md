@@ -17,7 +17,7 @@ Heu de crear un document de text amb Google Docs i compartir-lo amb el vostre co
 
 Recordeu que l'Historial de Google Docs mostra qui ha editat el document. Procureu repartir-vos l'edició dels textos de l'activitat de forma equitativa.
 
-###Supòsits:
+### Supòsits:
 
 1. L'aula informàtica on sou. Protegir tots els PCs de talls de llum i alteracions elèctriques i també protegir el switch de l'aula.
 2. Sala de servidors de 4x2 metres amb 2 PCs servidors, un router ADSL, un switch i una impressora làser de color. Es desitja una autonomia de 15 minuts i que es puguin apagar els servidors automàticament des del SAI en cas de tall de llum.

@@ -36,7 +36,7 @@ EL codi que hi ha darrera del formulari és vulnerable a atacs SQL Injection:
 * *From a “-- ” sequence to the end of the line.*
 * *From a /* sequence to the following */ sequence, as in the C programming language.*
 
-##Entregables
+## Entregables
 
 En un fitxer PDF:
 

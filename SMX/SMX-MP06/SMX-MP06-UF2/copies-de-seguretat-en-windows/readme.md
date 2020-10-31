@@ -25,7 +25,7 @@ Existeix una gran quantitat de programari tant gratuït com de pagament per mill
 Activitat
 -----------------
 
-###Eines de còpies de seguretat dels sistemes operatius WINDOWS
+### Eines de còpies de seguretat dels sistemes operatius WINDOWS
 
 1. Feu una carpeta en el sistema i poseu-hi uns quants fitxers (La mida total ha d'estar entre 1 i 2MB). Entre els arxius que hi hagi n'hi ha d'haver un anomenat “nom.txt” que tingui el vostre nom i el primer cognom
 2. Investigueu quines són les possibilitats que ofereix el programa de còpies de seguretat de Windows. Quins tipus de còpies de seguretat permet fer (normal, incremental, diferencial)? Es pot crear la còpia de seguretat per la xarxa? Expliqueu com permet programar les còpies de seguretat? Podeu posar contrasenya a les còpies de seguretat? Les còpies de seguretat es xifren?

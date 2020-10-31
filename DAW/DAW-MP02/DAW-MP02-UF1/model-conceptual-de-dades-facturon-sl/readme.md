@@ -5,7 +5,7 @@
 L'empresa Facturon SL vol informatitzar la facturació. Necessita una BDD per emmagatzemar les dades de les factures que emet. Llavors cal emmagatzemar productes: idProducte, nom, preuActual, referència a la família de productes a la que pertany (R=Refrigerats, F=Frescos,
 C=Congelats, B=BIOs). Els clients: NIF Client (per identificar-los), nom del client, adreça d'email, referència al sector al que pertanyen (D=Distribuidor, G=Gran superfície, D=Detallista). Les factures: idFactura, dataFactura, descripció, referència al client a qui li fem la factura. Detall de la factura: no de línia de detall, qtat facturdada, preuFacturarUnitari, %dte, referència a factura i referència a producte.
 
-###Exercici:
+### Exercici:
 
 * Fes el diagrama del MCD amb notació Chen i amb [notació Crow's foot](http://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow.27s_Foot_Notation)
 

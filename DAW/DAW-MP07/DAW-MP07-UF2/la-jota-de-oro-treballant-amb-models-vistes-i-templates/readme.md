@@ -35,7 +35,7 @@ Crea les següents vistes amb els respectius templates:
 7. [Afegint template base. 12'](https://youtu.be/cyi_MRrZMH0)
 
 
-###Segona Part
+### Segona Part
 
 * Crea una vista amb la llista de províncies. Posa-hi un enllaça a `crear nova província`. 
 * Crea un formulari per a crear una nova província. Un cop creada redirigeix l'usuari a la vista anterior.

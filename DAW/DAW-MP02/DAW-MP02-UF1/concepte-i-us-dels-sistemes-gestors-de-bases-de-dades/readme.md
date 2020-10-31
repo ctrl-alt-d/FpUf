@@ -12,7 +12,7 @@ Un **sistema gestor de base de dades** és un programari `(*1)` especialitzat en
 
 ![SGBD](http://i.imgur.com/qFuNOo6.png)
 
-###Exercicis###
+### Exercicis###
 
 1. StackOverflow és una web de referència al món del desenvolupament de programari. Consulta quantes preguntes hi ha en total a la web stackoverflow.com. 
 2. Consulta la defininció que trobem a StackOverflow per els següents Tags, comprova també quantes consultes hi ha per cadascun d'ells: Oracle, SQL-Server, MYSQL, postgresql, MongoDB, Cassandra, ms-access, sqlite. Per cadascun d'ells busca altres tags relacionats.

@@ -4,7 +4,7 @@
 
 Una empresa es dedica a donar suport de sistemes informàtics. Els clients truquen per telèfon, obren una incidència i són atesos per un tècnic, aquest assigna la incidència a un altre tècnic. La incidència es gestionada d’inici a fi pel tècnic al que ha estat assignada. En cas de necessitar ajuda d’altres tècnics es anotat quins altres tècnics i quina dedicació aporten a la incidència. Cada incidència té assignat un número que la identifica unívocament. Els tècnics estan assignats a una línia de producte (ex: sw, hw, web, ...). Cada tècnic té a més un identificador que el fa únic dins la línia de producte.
 
-###Exercici:
+### Exercici:
 
 * Fes el diagrama del MCD amb notació Chen i amb [notació Crow's foot](http://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow.27s_Foot_Notation)
 

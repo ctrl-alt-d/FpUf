@@ -2,7 +2,7 @@
 ## SMX-MP06-UF3 - Exercici de legislació de seguretat i protecció de dades.
 Activitat
 ---------------
-###El responsable dels fitxers de dades de caràcter personal
+### El responsable dels fitxers de dades de caràcter personal
 
 1. Localitzeu i reviseu les obligacions del responsable dels fitxers
     * Què diu la Llei Orgànica de Protecció de Dades de Caràcter Personal respecte a les responsabilitats del responsable del fitxer respecte a la Seguretat de les Dades?

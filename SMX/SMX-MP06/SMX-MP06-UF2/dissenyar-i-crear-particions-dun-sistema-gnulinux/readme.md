@@ -17,7 +17,7 @@ Finalment feu els canvis necessaris que heu plantejat amb el [Live/CD del GParte
 
 Poseu com a etiqueta de cada partició la inicial del tipus de partició seguida del vostre nom i la primera inicial del vostre cognom.
 
-###Exemple:
+### Exemple:
 
 - Partició Swap: S_CarlesC
 - Partició Arrel: A_CarlesC

@@ -14,7 +14,7 @@ de xip del gos més la data d'entrada a la gossera. Mai no s'esborren instàncie
 és mort cal saber-ho. Comprova que tota instància té AIP (ja sigui mitjançant atributs de la
 pròpia instància o d'entitats interrelacionades).
 
-###Exercici:
+### Exercici:
 
 * Fes el diagrama del MCD amb notació Chen i amb [notació Crow's foot](http://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow.27s_Foot_Notation)
 

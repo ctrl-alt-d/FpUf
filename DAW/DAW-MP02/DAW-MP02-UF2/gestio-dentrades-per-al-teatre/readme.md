@@ -29,7 +29,7 @@ Inserta les següents representacions:
 * `Seny i amor, amo i senyor` el dia 30 de novembre de 2017 a les 18:00 i a les 20:00. 5 entrades disponibles per a cada representació.
 * `La Senyora Florentina i el seu amor Homer` el dia 3 de desembre de 2017 a les 18:00 i a les 20:00. 2 entrades disponibles per a cada representació.
 
-###Segona part###
+### Segona part###
 
 **Transaccions**
 
@@ -70,7 +70,7 @@ Explica quin nivell d'isolació necessitem per traballar en aquest escenari tot 
 
 
 
-##Solucions##
+## Solucions##
 
 * [Part 2](https://youtu.be/15d8BV7_lGo)
 * [Part 3](https://youtu.be/kRRRTqCN8T4)

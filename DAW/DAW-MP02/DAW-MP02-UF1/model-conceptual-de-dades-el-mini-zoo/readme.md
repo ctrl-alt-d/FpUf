@@ -13,7 +13,7 @@ De cada espècie tenim molts exemplars. S'identifiquen per un xip. Cada animal t
 Els cuidadors tenen una jerarquia. De manera que tenim el jefe suprem i què té subordinats que a la vegada tindran més subordinats.
 
 
-###Exercici:
+### Exercici:
 
 * Fes el diagrama del MCD amb notació Chen i amb [notació Crow's foot](http://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow.27s_Foot_Notation)
 

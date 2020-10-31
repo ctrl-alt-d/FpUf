@@ -5,7 +5,7 @@
 Els Aiguamolls de l'Empordà volen un registre de totes les especies d'ocells que hi habiten. Llavors tenen un registre d'avistaments. Un avistament és que un dels ornitòlegs del parc ha vist un o diversos ocells d'una espècie. Els ornitòlegs tenen un carnet que els acredita. S'identifiquen pel número de carnet. Dels avistaments ens interessa l'espècie avistada, el número d'ocells avistats i una descripció del lloc i les circunstàncies d'avistament. També ens interessa la data d'avistament. Totes les possibles espècies estan entrades a la bdd i s'identifiquen per un codi alfanumèric. Tenim entrat tant el nom en català com el nom científic. Els ornitòlegs són un col·lectiu jerarquitzat, ens
 interessa reflexar aquesta jerarquia a la bdd sabent qui és cap de qui. No hi ha codi d'avistament. Per identificar un avistament ens cal el dia, la espècie i el codi de l'ornitòleg.
 
-###Exercici:
+### Exercici:
 
 * Fes el diagrama del MCD amb notació Chen i amb [notació Crow's foot](http://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow.27s_Foot_Notation)
 
